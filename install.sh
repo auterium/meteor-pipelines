@@ -30,7 +30,7 @@ run_it () {
 # ~/.meteor, replacing whatever is already there. (~/.meteor is only a cache of
 # packages and package metadata; no personal persistent data is stored there.)
 
-RELEASE="1.3.4.1"
+RELEASE="1.3.4.4"
 
 
 # Now, on to the actual installer!
